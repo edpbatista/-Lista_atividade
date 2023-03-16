@@ -1,0 +1,23 @@
+/* Estilos para o corpo do documento */
+body {
+  font-family: 'Open Sans', sans-serif;
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
+  background-color: #ffffff;
+}
+
+h1 {
+  font-size: 3em;
+  text-align: center;
+  margin: 0;
+}
+
+/* Estilos para os parágrafos */
+p {
+  margin: 1em 0;
+  font-size: 1rem;
+  line-height: 1.5;
+  text-align: justify;
+  margin-bottom: 1.5em;
+}
